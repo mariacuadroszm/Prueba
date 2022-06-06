@@ -1,0 +1,9 @@
+var something = 5
+
+function doSomething() {
+    var something = 3
+
+    if (something == 3) {
+        const ajam = 2
+    }
+}
